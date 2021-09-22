@@ -1,0 +1,22 @@
+[
+    {
+      "id":1,
+      "name":"Diganta",
+      "price":120
+    },
+    {
+      "id":2,
+      "name":"Unnata",
+      "price":121
+    },
+    {
+      "id":3,
+      "name":"Maruf",
+      "price":122
+    },
+    {
+      "id":4,
+      "name":"Siam",
+      "price":123
+    }
+  ]
